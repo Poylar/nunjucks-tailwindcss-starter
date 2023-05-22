@@ -1,0 +1,8 @@
+export default {
+      id: "user_sprite-usage",
+      viewBox: "0 0 24 24",
+      url: "/assets/" + "C:\\Users\\user\\Desktop\\work\\webpack\\src\\assets\\icons\\user_sprite.svg",
+      toString: function () {
+        return this.url;
+      }
+    }

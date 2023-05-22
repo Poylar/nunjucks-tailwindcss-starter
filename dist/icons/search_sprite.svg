@@ -1,0 +1,8 @@
+export default {
+      id: "search_sprite-usage",
+      viewBox: "0 0 20 20",
+      url: "/assets/" + "C:\\Users\\user\\Desktop\\work\\webpack\\src\\assets\\icons\\search_sprite.svg",
+      toString: function () {
+        return this.url;
+      }
+    }
